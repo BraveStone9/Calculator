@@ -5,7 +5,7 @@ html {
 body {
     margin: 0;
     /* background-color: rgb(4, 11, 23); */
-    background: linear-gradient(90deg, rgb(11, 30, 65) 0%, rgb(107, 117, 152) 100%)
+    background: linear-gradient(90deg, rgb(8, 26, 61) 0%, rgb(148, 157, 190) 100%)
   }
 .wrapper{
     min-height: 100vh;
