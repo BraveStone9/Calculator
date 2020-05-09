@@ -6,8 +6,7 @@ const displayMemory = document.querySelector('#displayMemory')
 const allClear = document.querySelector('#allClear')
 const deleteBtn = document.querySelector('#deleteBtn')
 const equalBtn = document.querySelector('#equalBtn')
-// const divcontenitore = document.querySelector('.containerNumeri')
-// const megacontenitore = document.querySelector('#megacontenitore')
+
 
 
 
